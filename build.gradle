@@ -19,7 +19,7 @@ buildscript {
          * type-safety.
          */
         classpath 'androidx.navigation:navigation-safe-args-gradle-plugin:2.5.1'
-        classpath 'com.archinamon:android-gradle-aspectj:4.3.0'
+          classpath 'org.aspectj:aspectjtools:1.9.4'
 
     }
 
