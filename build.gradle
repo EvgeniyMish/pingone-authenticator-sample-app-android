@@ -10,7 +10,7 @@ buildscript {
 
     dependencies {
         classpath 'com.android.tools.build:gradle:7.3.1'
-        classpath files('/Users/seanglencross/work/AppSecSeanner/pingone-authenticator-sample-app-android/mobile-protect-gradle-plugin.jar')
+        classpath files('mobile-protect-gradle-plugin.jar')
         classpath 'com.google.gms:google-services:4.3.13'
         /*
          * Gradle plugin called Safe Args that generates simple object and builder classes for
