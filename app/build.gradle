@@ -1,6 +1,7 @@
 
 
 apply plugin: 'com.android.application'
+apply plugin: 'com.dtplugin.mobileprotect'
 
 /*
  * The Google services plugin for Gradle loads the google-services.json file you have downloaded.
@@ -70,7 +71,6 @@ android {
 }
 
 
-apply plugin: 'com.dtplugin.mobileprotect'
 
 
 
